@@ -2,12 +2,14 @@
 
 Uma abstração em PHP para a [API do Olho Vivo][1] com todos os métodos disponibilizados pela versão 0 (zero)
 
-##Métodos
+## Métodos
 
 ### URL de acesso
 > http://api.olhovivo.sptrans.com.br/v0
+
 ### Autenticação
 > POST /Login/Autenticar?token={token}
+
 ### Linhas
 > GET /Linha/Buscar?termosBusca={termosBusca} 
 
